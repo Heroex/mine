@@ -1,3 +1,14 @@
-  LOD´s
-  maybe more controls on the player's movement - in Tick() for destroying etc.
+  Good:
   
+    - LOD´s
+    - maybe more controls on the player's movement - in Tick()
+    - low resolution of textures
+    - ideal settings for post process - ray tracing for example
+    
+  Bad:
+  
+    - avoid of network code running every tick
+    - a lot of nodes in BP
+    - complex audio effects
+    - bad materials
+    
